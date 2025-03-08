@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Kyse7535)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cucumber.png" alt="Cucumber" title="Cucumber"/></td>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></td>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
@@ -58,3 +61,6 @@ Here are some ideas to get you started:
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></td>
 	</tr>
 </table>
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kyse7535/langs)](https://githubtrends.io)
